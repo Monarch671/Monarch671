@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Monarch671
+- 👀 I’m interested in coding and learning everything i can about programming,i hope to learn alot,i have been proggraming for 3-4 years i know html,css,php,mysql,javascript.
+- 🌱 I’m currently learning react native.
+- 💞️ I’m looking to collaborate on anthing that requires the launguages that i know,but dont expect too much from me im still inexperienced.
+- 📫 How to reach me aldindugolli2@gmail.com
